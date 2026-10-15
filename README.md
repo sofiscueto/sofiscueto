@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:2563EB,100:FACC15&height=190&section=header&text=Sofia%20Cueto&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Engenharia%20de%20Software%20•%20Front-end%20•%20Product%20Owner&descAlignY=58&descSize=17" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=FACC15&center=true&vCenter=true&width=560&lines=Olá!+Eu+sou+a+Sofia+✨;Do+protótipo+no+Figma+ao+código;Aprofundando+em+Product+Owner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=FACC15&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+a+Sofia!;Do+prot%C3%B3tipo+no+Figma+ao+c%C3%B3digo;Aprofundando+em+Product+Owner" />
 </p>
 
 ## 💜 Sobre mim
