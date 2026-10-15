@@ -1,8 +1,7 @@
-<!-- Banner: roxo → azul → amarelo -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:2563EB,100:FACC15&height=190&section=header&text=Sofia%20Cueto&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Engenharia%20de%20Software%20•%20Front-end%20•%20Product%20Owner&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,50:5B21B6,100:1E40AF&height=190&section=header&text=Sofia%20Cueto&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Engenharia%20de%20Software%20•%20Front-end%20•%20Product%20Owner&descAlignY=58&descSize=17" width="100%"/> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=FACC15&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+a+Sofia!;Do+prot%C3%B3tipo+no+Figma+ao+c%C3%B3digo;Aprofundando+em+Product+Owner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&pause=1600&color=A5B4FC&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+a+Sofia!;Do+prot%C3%B3tipo+no+Figma+ao+c%C3%B3digo;Aprofundando+em+Product+Owner" />
 </p>
 
 ## 💜 Sobre mim
@@ -10,10 +9,10 @@
 - 🎓 Estudante de **Engenharia de Software** no **Uni-FACEF** – Franca, SP
 - 💻 Desenvolvo interfaces e protótipos, do Figma ao código
 - 🏢 Faço parte da **[@Francauto-Labs](https://github.com/Francauto-Labs)**
-- 🏆 Participei do **X Hackathon Uni-FACEF** (desafio Cocapec)
-- 🧭 Me aprofundando na área de **Product Owner**: entender as pessoas, priorizar o que importa e transformar necessidades em produto
+- 🥇 **1º lugar no X Hackathon Uni-FACEF** (desafio Cocapec)
+- 🌱 Me aprofundando na área de **Product Owner**: entender as pessoas, priorizar o que importa e transformar necessidades em produto
 
-## 🛠️ Tecnologias
+## ✦ Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nextjs,mysql,git,github,figma,vscode&theme=dark" />
@@ -30,7 +29,8 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sofia-cueto-de-barros-0b18ba299/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sofiacuetobarros@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=FACC15" /></a>
   <a href="https://wa.me/5516991740679" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-5B21B6?style=for-the-badge&logo=whatsapp&logoColor=FACC15" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,50:2563EB,100:5B21B6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,50:5B21B6,100:3B0764&height=100&section=footer" width="100%"/>
