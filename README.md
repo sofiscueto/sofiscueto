@@ -33,4 +33,11 @@
   <a href="https://wa.me/5516991740679" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-5B21B6?style=for-the-badge&logo=whatsapp&logoColor=FACC15" /></a>
 </p>
 
+## 🐍 Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiscueto/sofiscueto/output/github-snake-dark.svg" />
+  <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/sofiscueto/sofiscueto/output/github-snake.svg" />
+</picture>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,50:5B21B6,100:3B0764&height=100&section=footer" width="100%"/>
