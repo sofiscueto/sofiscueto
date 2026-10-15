@@ -33,7 +33,7 @@
   <a href="https://wa.me/5516991740679" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-5B21B6?style=for-the-badge&logo=whatsapp&logoColor=FACC15" /></a>
 </p>
 
-## 🐍 Minhas contribuições
+## ✨ Minhas contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiscueto/sofiscueto/output/github-snake-dark.svg" />
