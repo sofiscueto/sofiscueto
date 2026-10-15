@@ -3,7 +3,7 @@
 
 ## 🌸 Sobre mim
 
-- 🎓 Estudante de **[SEU CURSO]** no **Uni-FACEF** – Franca, SP
+- 🎓 Estudante de **Engenharia de Software** no **Uni-FACEF** – Franca, SP
 - 💻 Desenvolvo interfaces e protótipos, do Figma ao código
 - 🏢 Faço parte da **[@Francauto-Labs](https://github.com/Francauto-Labs)**
 - 🏆 Participei do **X Hackathon Uni-FACEF** (desafio Cocapec)
