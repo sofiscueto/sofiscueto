@@ -7,8 +7,6 @@
 - 💻 Desenvolvo interfaces e protótipos, do Figma ao código
 - 🏢 Faço parte da **[@Francauto-Labs](https://github.com/Francauto-Labs)**
 - 🏆 Participei do **X Hackathon Uni-FACEF** (desafio Cocapec)
-- 🌱 Atualmente estudando **[O QUE ESTÁ APRENDENDO]**
-- ✨ Curiosidade: **[ALGO SOBRE VOCÊ]**
 
 ## 🛠️ Tecnologias
 
